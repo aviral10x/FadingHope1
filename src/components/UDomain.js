@@ -4,7 +4,7 @@ import { Button} from "react-bootstrap";
 
 const uauth = new UAuth({
   clientID: "968dfb97-ccf5-49b1-9312-5147370ea04d",
-  redirectUri: "http://localhost:3000",
+  redirectUri: "https://fading-hope1-ten.vercel.app/",
 });
 
 function UDomain() {
